@@ -2,7 +2,7 @@
 
 ## **Project Title :** using the support vector mecganism algorithm of supervised machine learning,predict iris.csv dataset to find out sepcies.
 
-##**Problem Statment :** A american based botanical garden a grow iris flower in there labs but using bio technology in a single tree differnet types of variety flowers is grow.find out as a data cientist how much accuracy is there all categories contains same species.
+## **Problem Statment :** A american based botanical garden a grow iris flower in there labs but using bio technology in a single tree differnet types of variety flowers is grow.find out as a data cientist how much accuracy is there all categories contains same species.
 
 ## Project Appraoch :
 ![image](https://github.com/Pankajpanday29/Support_Vector_Mechanism/assets/128885642/7920768d-ccb5-4edf-b56d-cfb563c2ed99)
